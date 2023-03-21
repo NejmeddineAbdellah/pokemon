@@ -23,7 +23,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="center"
-            android:background="@drawable/test"
+            android:background="@drawable/radius_pok"
             android:layout_margin="5dp">
 
             <ImageView
@@ -45,7 +45,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="center"
-            android:background="@drawable/test"
+            android:background="@drawable/radius_pok"
             android:layout_margin="5dp">
         <ImageView
             android:id="@+id/img2"
@@ -74,7 +74,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="center"
-            android:background="@drawable/test"
+            android:background="@drawable/radius_pok"
             android:layout_margin="5dp">
 
         <ImageView
@@ -95,7 +95,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="center"
-            android:background="@drawable/test"
+            android:background="@drawable/radius_pok"
             android:layout_margin="5dp">
         <ImageView
             android:id="@+id/img4"
@@ -125,7 +125,7 @@
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_gravity="center"
-            android:background="@drawable/test"
+            android:background="@drawable/radius_pok"
             android:layout_margin="5dp">
         <ImageView
             android:id="@+id/img5"
@@ -146,7 +146,7 @@
                 android:layout_height="wrap_content"
                 android:orientation="vertical"
                 android:layout_gravity="center"
-                android:background="@drawable/test"
+                android:background="@drawable/radius_pok"
                 android:layout_margin="5dp">
         <ImageView
             android:id="@+id/img6"

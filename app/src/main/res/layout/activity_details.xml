@@ -22,8 +22,8 @@
                 android:layout_height="300dp"
                 android:textAlignment="center"
                 android:layout_gravity="center"
-                android:background="@drawable/test"
-                android:src="@drawable/first">
+                android:background="@drawable/radius_pok"
+                android:src="@drawable/fourth">
 
             </ImageView>
         </LinearLayout>
