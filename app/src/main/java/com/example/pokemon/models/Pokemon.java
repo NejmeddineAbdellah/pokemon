@@ -1,9 +1,12 @@
 package com.example.pokemon.models;
 
+import com.google.gson.annotations.SerializedName;
+
 public class Pokemon {
 
 
     private int number;
+    //@SerializedName("name") changer name
     private String name;
     private String url;
 
