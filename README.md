@@ -1,8 +1,6 @@
 # pokemon
 
-![Screenshot 2023-04-16 224718](https://user-images.githubusercontent.com/48094988/232347266-0bbd7f6c-c2cc-4dac-a594-c04dbe7db673.png)
-
-![Screenshot 2023-04-16 224825](https://user-images.githubusercontent.com/48094988/232347269-efe21d27-31f2-472f-8eb1-40dce93445bd.png)
+![Screenshot 2023-04-16 224718](https://user-images.githubusercontent.com/48094988/232347266-0bbd7f6c-c2cc-4dac-a594-c04dbe7db673.png) ![Screenshot 2023-04-16 224825](https://user-images.githubusercontent.com/48094988/232347269-efe21d27-31f2-472f-8eb1-40dce93445bd.png)
 
 Les fonctionnalités et les technologies:
 
